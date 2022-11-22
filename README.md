@@ -27,4 +27,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
 
 <br>
+
+### ⚙ BOJ ⚙
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehrud9323)](https://solved.ac/profile/ehrud9323)　![mazandi profile](http://mazandi.herokuapp.com/api?handle=ehrud9323&theme=warm)
  
